@@ -1,0 +1,14 @@
+{
+  "name": "New Zea Airlines",
+  "icao": "NZA",
+  "country": "New Zealand",
+  "hub": "NZAA",
+  "liveries": [
+    {
+      "aircraft": "A321",
+      "name": "New Zea Airlines A321neo",
+      "texture": "textures/a321neo.png",
+      "thumbnail": "thumbnails/a321neo.png"
+    }
+  ]
+}
