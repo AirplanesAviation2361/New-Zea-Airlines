@@ -1,0 +1,6 @@
+[
+  {
+    "aircraft": "A321",
+    "thumbnail": "thumbnails/a321neo.png"
+  }
+]
